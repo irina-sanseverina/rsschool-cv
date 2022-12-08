@@ -3,9 +3,9 @@
 #### _Contact information_:
 * Phone: +38(068)2131618
 * Email: irina.sanseverina@gmail.com
-* GitHub: [github.com](https://github.com/irina-sanseverina)
+* GitHub: [github.com](https://github.com/irina-sanseverina/)
 * Discord: Iryna (@irina-sanseverina)
-* LinkedIn: [Linkedin.com](https://www.linkedin.com/in/iryna-b-9497b2229)
+* LinkedIn: [Linkedin.com](https://www.linkedin.com/in/iryna-b-9497b2229/)
 #### _About me_:
 An accountant with a great desire to change my life and be able to work from anywhere in the world and at any free time. 
 #### _Skills_:
