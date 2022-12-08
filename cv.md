@@ -1,7 +1,7 @@
 # Iryna Prokhorchuk
 -------------------
 #### _Contact information_:
-* Phone: +38 (068) 213-16-17
+* Phone: +38(068)2131618
 * Email: irina.sanseverina@gmail.com
 * GitHub: https://github.com/irina-sanseverina
 * Discord: Iryna (@irina-sanseverina)
