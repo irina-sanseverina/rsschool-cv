@@ -78,12 +78,12 @@ h1{
 }
 @keyframes color-change{
 	0% {
-		color: rgb(243, 243, 231);
+		color: rgb(243, 150, 231);
 	}
 	50%{
 		color: rgb(54, 18, 3);
 	}
-	100% {
+	75% {
 		color: #fca82c;
 	}
 }
@@ -150,9 +150,13 @@ h1{
 	align-items: center;
 	justify-content: space-between;
 }
-.footer .container a{
+.footer .footer-container a{
 	text-decoration: none;
 	font-size: 18px;
 	font-weight: 700;
 	color: rgb(54, 18, 3);
+}
+.footer .footer-container img{
+	height: 30px;
+	width: 75px;
 }
