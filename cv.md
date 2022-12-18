@@ -1,7 +1,7 @@
 # IRYNA PROKHORCHUK
-###JUNIOR FRONTEND DEVELOPER
+### JUNIOR FRONTEND DEVELOPER
 -------------------
-####_Contact information_:
+#### _Contact information_:
 * Phone: +38(068)2131618
 * Email: irina.sanseverina@gmail.com
 * GitHub: [github.com](https://github.com/irina-sanseverina/)
