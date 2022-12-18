@@ -1,7 +1,7 @@
 # IRYNA PROKHORCHUK
 ###JUNIOR FRONTEND DEVELOPER
 -------------------
-#### _Contact information_:
+####_Contact information_:
 * Phone: +38(068)2131618
 * Email: irina.sanseverina@gmail.com
 * GitHub: [github.com](https://github.com/irina-sanseverina/)
@@ -33,7 +33,7 @@ function multiply(a, b){
 ```
 #### _Education_
 **The Bohdan Khmelnytsky National University of Cherkasy**, 
-2003-2008, Master's Deg.
+2003-2008, Master Deg.
 
 #### _Courses_
 * __EPAM UNIVERSITY__
@@ -42,4 +42,4 @@ function multiply(a, b){
 	- Introduction to JavaScript (RS School) - in process
 #### _Languages_
 English - B1 (Intermediate);
-Ukrainian - naitive.
+Ukrainian - native.
